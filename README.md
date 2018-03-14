@@ -23,9 +23,9 @@ Light weight jQuery plugin for export table to excel file
 &lt;script src=&quot;js/</code>jquery.tableToExcel.js<code>&quot;&gt;&lt;/script&gt;
 </code></pre>
 
-<p>To change any Bengali digit on your HTML page.</p>
+<p>Create Excel file form HTML table</p>
 
-<p>Write an input field or any HTML&nbsp;element</p>
+<p>Add plugin any table with CSS selector</p>
 
 <pre>
 <code>&lt;span&gt;১২৩৪৫৬৭৮৯&lt;/span&gt;
