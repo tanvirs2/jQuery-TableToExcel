@@ -20,7 +20,7 @@ Light weight jQuery plugin for export table to excel file
 
 <pre>
 <code>&lt;script src=&quot;https://code.jquery.com/jquery-3.2.1.min.js&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;js/</code>jquery.bengaliDigitConverter.js<code>&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/</code>jquery.tableToExcel.js<code>&quot;&gt;&lt;/script&gt;
 </code></pre>
 
 <p>To change any Bengali digit on your HTML page.</p>
