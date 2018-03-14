@@ -28,8 +28,44 @@ Light weight jQuery plugin for export table to excel file
 <p>Add plugin any table with CSS selector</p>
 
 <pre>
-<code>&lt;span&gt;১২৩৪৫৬৭৮৯&lt;/span&gt;
-&lt;input type=&quot;text&quot; value=&quot;১৯৭১&quot;&gt; 
+<code>
+<table>
+    <tr>
+        <th>Company</th>
+        <th>Contact</th>
+        <th>Country</th>
+    </tr>
+    <tr>
+        <td>Alfreds Futterkiste</td>
+        <td>Maria Anders</td>
+        <td>Germany</td>
+    </tr>
+    <tr>
+        <td>Centro comercial Moctezuma</td>
+        <td>Francisco Chang</td>
+        <td>Mexico</td>
+    </tr>
+    <tr>
+        <td>Ernst Handel</td>
+        <td>Roland Mendel</td>
+        <td>Austria</td>
+    </tr>
+    <tr>
+        <td>Island Trading</td>
+        <td>Helen Bennett</td>
+        <td>UK</td>
+    </tr>
+    <tr>
+        <td>Laughing Bacchus Winecellars</td>
+        <td>Yoshi Tannamuri</td>
+        <td>Canada</td>
+    </tr>
+    <tr>
+        <td>Magazzini Alimentari Riuniti</td>
+        <td>Giovanni Rovelli</td>
+        <td>Italy</td>
+    </tr>
+</table>
 </code></pre>
 
 <p>Apply the plugin to input or any element on your HTML page and get replace Bengali digit to English digit.</p>
