@@ -72,7 +72,7 @@ Light weight jQuery plugin for export table to excel file
 
 <pre>
 <code>&lt;script&gt;
-    $(selector).</code>convertBengaliDigit<code>();
+    $(selector).</code>tblToExcel<code>();
 &lt;/script&gt;
 </code></pre>
 
