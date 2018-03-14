@@ -73,6 +73,12 @@ Light weight jQuery plugin for export table to excel file
 <pre>
 <code>&lt;script&gt;
     $(selector).</code>tblToExcel<code>();
+    
+    //... or
+    
+    $('button').click(function () {
+        $('table').tblToExcel();
+    });
 &lt;/script&gt;
 </code></pre>
 
