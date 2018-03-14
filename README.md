@@ -68,7 +68,7 @@ Light weight jQuery plugin for export table to excel file
 </table>
 </code></pre>
 
-<p>Apply the plugin to input or any element on your HTML page and get replace Bengali digit to English digit.</p>
+<p>Apply the plugin to HTML table element on your HTML page and get excel file as like the table.</p>
 
 <pre>
 <code>&lt;script&gt;
