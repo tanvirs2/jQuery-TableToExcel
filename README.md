@@ -104,3 +104,23 @@ complete: function () {
 
 </li>
 </ul>
+
+# Added custom name file tableToExcel
+I just added some parameter for file name in jquery.tableToExcel.js at line 2, and line 36
+<pre>
+<code>&lt;script&gt;
+
+	(function ($) {
+		$.fn.tblToExcel = function (parameter) {
+    
+&lt;/script&gt;
+</code></pre>
+
+
+<pre>
+<code>&lt;script&gt;
+
+	link.download = parameter;
+    
+&lt;/script&gt;
+</code></pre>
